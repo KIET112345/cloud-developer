@@ -49,6 +49,6 @@ Add your own domain name and have it point to the running services (try adding a
 
 End point:
 http://kiet-dev-pro2-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://photo.salekit.vn/uploads/fchat_5b4872d13803896dd77125af/kich-thuoc-anh-facebook.jpg
-git repo:
+git repo: https://github.com/KIET112345/cloud-developer.git
 
 
